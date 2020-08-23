@@ -48,17 +48,18 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:Md Naim
+#Dev:Md Mishat
 ##### LOGO #####
 logo = """
  \033[1;97#### ####                                 
-    /|    / / //   ) ) 
-   //|   / / ((           
-  // |  / /    \\           
- //  | / /       ) )         
-//   |/ / ((___ / /        
+___________  ____  __.   ________ 
+\__    ___/ |    |/ _|  /  _____/ 
+  |    |    |      <   /   \  ___ 
+  |    |    |    |  \  \    \_\  \
+  |____|    |____|__ \  \______  /
+                    \/         \/ 
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97mAuthor©\033[1;97m: \033[1;92mMd Naim
+\033[1;97mAuthor©\033[1;97m: \033[1;92mMohammed Mishat
 \033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/fack.user0
 \033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/fack.user0
 \033[1;97mWhatsapp\033[1;97m: \033[1;92m+8801760743760
@@ -100,13 +101,13 @@ print  """
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m Tool Username And Password  ")
-jalan('\033[1;97m    Username Noak Password Noakh  K is Big Letter ')
+jalan('\033[1;97m    Username Mishat Password Mishat ')
 jalan("\033[1;97m    ██████ 100%  ")
 
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
-CorrectUsername = "Noak"
-CorrectPassword = "Noakh"
+CorrectUsername = "Mishat"
+CorrectPassword = "Mishat"
 
 loop = 'true'
 while (loop == 'true'):
@@ -418,7 +419,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"
-	print "  \033[1;91m«---------Developed By Noakhali Spamming------------»" #Dev:Md Naim
+	print "  \033[1;91m«---------Developed By Terrible Killers Gang------------»" #Dev:Md Mishat
 	print '\033[1;92mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
@@ -428,7 +429,7 @@ def pilih_super():
                  {=  ^  =}
                   >  -  <
 .-------------.""`-------`"".-------------.
-: \033[1;92m     Hope You N̳o̳a̳k̳h̳a̳l̳i̳ ̳S̳p̳a̳m̳m̳i̳n̳g̳ ̳   \033[1;93m :
+: \033[1;92m     Hope You Terrible Killers Gang   \033[1;93m :
 '-----------------------------------------' 
                 ___)( )(___
                (((__) (__)))"""
