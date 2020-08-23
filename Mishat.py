@@ -94,7 +94,7 @@ print  """
       \033[1;97m█████ 80% *___*
        \033[1;96m██████ 100% *___*
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mMd Naim Hossan
+\033[1;91mAuthor©\033[1;91m: \033[1;93mMd Mishat
 \033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/fack.user0
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/fack.user0
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+01860743760
