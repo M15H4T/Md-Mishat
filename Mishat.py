@@ -52,16 +52,15 @@ def jalan(z):
 ##### LOGO #####
 logo = """
  \033[1;97#### ####                                 
-___________  ____  __.   ________ 
-\__    ___/ |    |/ _|  /  _____/ 
-  |    |    |      <   /   \  ___ 
-  |    |    |    |  \  \    \_\  \
-  |____|    |____|__ \  \______  /
-                    \/         \/ 
+/__  ___/       //   / /       //   ) ) 
+   / /          //__ / /       //        
+  / /          //__  /        //  ____   
+ / /          //   \ \       //    / /   
+/ /          //     \ \     ((____/ /
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;97mAuthor©\033[1;97m: \033[1;92mMohammed Mishat
-\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/
-\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/
+\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/Mohammed Mishat
+\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/Mohammed Mishat
 \033[1;97mWhatsapp\033[1;97m: \033[1;92m+
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
@@ -95,8 +94,8 @@ print  """
        \033[1;96m██████ 100% *___*
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91mAuthor©\033[1;91m: \033[1;93mMd Mishat
-\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/
+\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/Mohammed Mishat
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Mohammed Mishat
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
